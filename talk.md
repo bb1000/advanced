@@ -263,11 +263,10 @@ See also
 * https://realpython.com/primer-on-python-decorators/
 * https://www.geeksforgeeks.org/decorators-in-python/
 
+---
 
-# Iterators
+## Iterators
 
-
-## Examples
 
 * objects that can be used in for loops
 
