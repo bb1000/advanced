@@ -1,7 +1,5 @@
 # Advanced concepts
 
-
-
 ---
 
 layout: false
