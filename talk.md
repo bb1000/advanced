@@ -481,6 +481,7 @@ __iter__: 3
 enter g with 2
 2
 >>> next(g2)
+after yield
 Traceback (most recent call last):
 ...
 StopIteration
@@ -517,6 +518,7 @@ enter g with  2
 after yield
 1
 >>> next(g2)
+after while
 Traceback (most recent call last):
 ...
 StopIteration
