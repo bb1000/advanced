@@ -8,7 +8,7 @@ layout: false
 
 * Context managers
 * Decorators
-* Iterators
+* Iteration
 
 ---
 
@@ -263,7 +263,7 @@ See also
 
 ---
 
-## Iterators
+## Iteration
 
 
 * objects that can be used in for loops
